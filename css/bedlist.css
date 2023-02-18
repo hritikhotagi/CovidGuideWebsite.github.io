@@ -1,0 +1,38 @@
+.color4{
+	height:600px;
+	background:#F5C6AA;
+	overflow:hidden;
+	overflow-y:scroll;
+	margin-top:3px;
+}
+
+.table-container1{
+	margin-bottom:10px;
+	
+}
+
+.table-container1 table{
+	
+	width:95%;
+	box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+	
+}
+
+.table-container1 table, td, th{
+	padding: 10px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.table-container1 td{
+	font-size: 18px;
+}
+.table-container1 th{
+	background-color: #e91e63;
+	color: white;
+}
+.table-container1 tr: nth-child(odd){
+	background-color: lightgray;
+}
+

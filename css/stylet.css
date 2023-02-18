@@ -1,0 +1,35 @@
+*{
+         margin: 0;
+         padding: 0;
+         font-family: arial;
+         box-sizing: border-box;
+}
+body{
+            height: 100vh;
+            display: grid;
+             place-items: center;
+ }
+
+table{
+               width: 1200px;
+                 box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+}
+
+table, td, th{
+                      padding: 10px;
+                      border: 1px solid lightgray;
+                       border-collapse: collapse;
+                         text-align: center;
+}
+
+td{
+        font-size: 18px;
+}
+th{
+            background-color: Green;
+             color: white;
+}
+tr: nth-child(odd){
+                                 background-color: lightgray;
+}
+

@@ -1,0 +1,26 @@
+.color3{
+	height:600px;
+	background:#F8E2CF;
+	margin-top:3px;
+}
+
+.color3 h1{
+	text-align:center;
+}
+
+.color3 table{
+	border-spacing: 10px;
+}
+
+.color3 table img{
+	width:150px;
+	height:110px;
+}
+
+.color3 table h3{ 
+	font-size:20px;
+}
+
+.color3 table p{ 
+	font-size:14px;
+}
